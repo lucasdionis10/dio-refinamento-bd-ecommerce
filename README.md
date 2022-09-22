@@ -2,7 +2,6 @@
 Modelo relacional refinado para o desafio do Bootcamp da DIO
 
 # Descrição:
-<<<<<<< HEAD
 Melhorias em formas de pagamento, entrega e carrinho.
 
 ## Carrinho: 
@@ -31,5 +30,3 @@ As formas de pagamento foi detalhado com as opções: PIX, Boleto e Cartão. Est
 
 ## Entrega:
 A entrega foi detalhada com o status, valor do frete, tipo de entrega, código de rastreio, tempo estimado e importa o ID do pedido e do cliente.
-
->>>>>>> 580faa330bee37f4debe13f16df2d6d805179b2e
