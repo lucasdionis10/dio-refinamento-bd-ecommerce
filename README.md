@@ -17,7 +17,6 @@ o pagamento ainda reúne informações dos produtos do carrinho, valor total, fr
 
 ## Entrega:
 A entrega foi detalhada com o status, valor do frete, tipo de entrega, código de rastreio, tempo estimado e distância estimada.
-=======
 Melhorias em formas de pagamento, entrega, carrinho, 
 
 
